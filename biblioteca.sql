@@ -42,7 +42,7 @@ CREATE TABLE `libros` (
 INSERT INTO `libros` (`id`, `idlib`, `nombre_libro`, `fecha_ingreso`, `estado`) VALUES
 (1, 458854, 'LIBRO PALINDROMO', '2021-06-24', 0),
 (2, 458855, 'EL PRINCIPITO', '2021-06-24', 0),
-(3, 458856, '50 AÑOS DE SOLEDAD', '2021-06-24', 0),
+(3, 458856, 'LUCES DE BOHEMIA', '2021-06-24', 0),
 (4, 458889, 'LIBRO IDLIB +40', '2021-06-24', 1);
 
 -- --------------------------------------------------------
