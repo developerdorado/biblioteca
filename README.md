@@ -13,4 +13,4 @@
 - El autocompletado funciona con mínimo 2 caracteres
 
 **Como usar, video Youtube**
-[COMO USAR](https://youtu.be/173eB9Bg5cM) 
+* [COMO USAR](https://youtu.be/173eB9Bg5cM) 
